@@ -203,4 +203,4 @@ Están en la carpeta `DataJam/Docs`:
 |---|---|---|
 | **Jean Phillipe Carreño Riaño** | Análisis de Datos / Modelado | jphillipecarreno@ucompensar.edu.co |
 | **Santiago Salazar Lizarazo** | Preprocesamiento / ETL | ssalazarl@ucompensar.edu.co |
-| **Jhoan Stit Fragua Avila** | Desarrollo / Visualización | [@Peloterius](https://github.com/Peloterius) · jfragua@ucompensar.edu.co |
+| **Johan Stit Fragua Avila** | Desarrollo / Visualización | [@Peloterius](https://github.com/Peloterius) · jfragua@ucompensar.edu.co |
