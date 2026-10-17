@@ -19,7 +19,6 @@ Alcaldía Mayor de Bogotá (DIPEA) y Fundación Universitaria Compensar · **Equ
 * [Visualizaciones y Resultados](#visualizaciones-y-resultados)
 * [Limitaciones](#limitaciones)
 * [Equipo de Trabajo](#equipo-de-trabajo)
-* [Licencia](#licencia)
 
 ---
 
@@ -59,15 +58,16 @@ Para revisar los resultados y la documentación final **no se requiere instalar 
 
 ```
 DataJam5-medicamentos-y-mortalidad-bogota/
-├── data/
-│   ├── raw/             # CSV originales del Portal de Datos Abiertos Bogotá
-│   └── processed/       # Datos limpios y clasificados
-├── notebooks/
-│   └── Notebook.ipynb   # Limpieza, clasificación, integración e indicadores
-├── outputs/             # Indicadores en CSV y dashboard (archivo editable)
-├── docs/                # Nota técnica (PDF) y formulario (.docx)
-├── README.md            # Documentación principal del proyecto
-└── requirements.txt     # Librerías necesarias
+├── README.md                # Documentación principal del proyecto
+└── DataJam/
+    ├── data/
+    │   ├── raw/             # CSV originales del Portal de Datos Abiertos Bogotá
+    │   └── processed/       # Datos limpios y clasificados
+    ├── notebooks/
+    │   └── Notebook.ipynb   # Limpieza, clasificación, integración e indicadores
+    ├── outputs/             # Indicadores en CSV y dashboard (archivo editable)
+    ├── docs/                # Nota técnica (PDF) y formulario (.docx)
+    └── requirements.txt     # Librerías necesarias
 ```
 
 ---
@@ -103,14 +103,14 @@ Hay dos formas de ejecutar el notebook en Colab sin instalar nada en tu equipo.
 
 ### Opción 1: desde GitHub
 
-1. Haz clic en el botón: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Peloterius/DataJam5-medicamentos-y-mortalidad-bogota/blob/main/notebooks/Notebook.ipynb)
+1. Haz clic en el botón: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Peloterius/DataJam5-medicamentos-y-mortalidad-bogota/blob/main/DataJam/notebooks/Notebook.ipynb)
 2. En la barra superior, selecciona **Entorno de ejecución > Ejecutar todas**.
 
 También puedes ver una vista previa del notebook directamente en el repositorio: https://github.com/Peloterius/DataJam5-medicamentos-y-mortalidad-bogota
 
 ### Opción 2: desde Google Drive
 
-1. Sube la carpeta completa del repositorio a *Mi unidad* con el nombre `DataJam`.
+1. Sube la carpeta `DataJam` del repositorio a *Mi unidad*.
 2. Abre `notebooks/Notebook.ipynb` en Colab y autoriza el acceso a Drive.
 3. Selecciona **Entorno de ejecución > Reiniciar y ejecutar todo**.
 
@@ -125,7 +125,7 @@ Requiere **Python 3.10 o superior**. Si prefieres ejecutar el código en tu ento
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/Peloterius/DataJam5-medicamentos-y-mortalidad-bogota.git
-   cd DataJam5-medicamentos-y-mortalidad-bogota
+   cd DataJam5-medicamentos-y-mortalidad-bogota/DataJam
    ```
 2. **Crear y activar un entorno virtual:**
    ```bash
@@ -186,5 +186,3 @@ El orden por mortalidad coincide con el orden por desabastecimiento. Con solo 4 
 | **Jean Phillipe Carreño Riaño** | Análisis de Datos / Modelado | jphillipecarreno@ucompensar.edu.co |
 | **Santiago Salazar Lizarazo** | Preprocesamiento / ETL | ssalazarl@ucompensar.edu.co |
 | **Jhoan Stit Fragua Avila** | Desarrollo / Visualización | [@Peloterius](https://github.com/Peloterius) · jfragua@ucompensar.edu.co |
-
----
