@@ -1,0 +1,74 @@
+﻿localidad,grupo,casos
+01 - Usaquén,cardiocerebrovascular,40
+01 - Usaquén,diabetes,4
+01 - Usaquén,neoplasias,62
+01 - Usaquén,respiratorias,1
+02 - Chapinero,cardiocerebrovascular,16
+02 - Chapinero,neoplasias,10
+03 - Santa Fe,cardiocerebrovascular,14
+03 - Santa Fe,diabetes,1
+03 - Santa Fe,neoplasias,6
+04 - San Cristóbal,cardiocerebrovascular,41
+04 - San Cristóbal,diabetes,5
+04 - San Cristóbal,neoplasias,34
+04 - San Cristóbal,respiratorias,15
+05 - Usme,cardiocerebrovascular,47
+05 - Usme,diabetes,9
+05 - Usme,neoplasias,23
+05 - Usme,respiratorias,4
+06 - Tunjuelito,cardiocerebrovascular,17
+06 - Tunjuelito,diabetes,8
+06 - Tunjuelito,neoplasias,22
+06 - Tunjuelito,respiratorias,5
+07 - Bosa,cardiocerebrovascular,75
+07 - Bosa,diabetes,11
+07 - Bosa,neoplasias,61
+07 - Bosa,respiratorias,12
+08 - Kennedy,cardiocerebrovascular,88
+08 - Kennedy,diabetes,15
+08 - Kennedy,neoplasias,98
+08 - Kennedy,respiratorias,16
+09 - Fontibón,cardiocerebrovascular,34
+09 - Fontibón,diabetes,2
+09 - Fontibón,neoplasias,26
+09 - Fontibón,respiratorias,2
+10 - Engativá,cardiocerebrovascular,76
+10 - Engativá,diabetes,12
+10 - Engativá,neoplasias,77
+10 - Engativá,respiratorias,9
+11 - Suba,cardiocerebrovascular,90
+11 - Suba,diabetes,13
+11 - Suba,neoplasias,111
+11 - Suba,respiratorias,15
+12 - Barrios Unidos,cardiocerebrovascular,14
+12 - Barrios Unidos,diabetes,4
+12 - Barrios Unidos,neoplasias,15
+12 - Barrios Unidos,respiratorias,2
+13 - Teusaquillo,cardiocerebrovascular,16
+13 - Teusaquillo,diabetes,1
+13 - Teusaquillo,neoplasias,10
+13 - Teusaquillo,respiratorias,1
+14 - Los Mártires,cardiocerebrovascular,11
+14 - Los Mártires,diabetes,2
+14 - Los Mártires,neoplasias,11
+14 - Los Mártires,respiratorias,5
+15 - Antonio Nariño,cardiocerebrovascular,15
+15 - Antonio Nariño,diabetes,2
+15 - Antonio Nariño,neoplasias,10
+15 - Antonio Nariño,respiratorias,2
+16 - Puente Aranda,cardiocerebrovascular,26
+16 - Puente Aranda,diabetes,4
+16 - Puente Aranda,neoplasias,24
+16 - Puente Aranda,respiratorias,2
+17 - La Candelaria,cardiocerebrovascular,2
+17 - La Candelaria,diabetes,1
+17 - La Candelaria,neoplasias,3
+17 - La Candelaria,respiratorias,2
+18 - Rafael Uribe Uribe,cardiocerebrovascular,42
+18 - Rafael Uribe Uribe,diabetes,6
+18 - Rafael Uribe Uribe,neoplasias,36
+18 - Rafael Uribe Uribe,respiratorias,4
+19 - Ciudad Bolívar,cardiocerebrovascular,68
+19 - Ciudad Bolívar,diabetes,22
+19 - Ciudad Bolívar,neoplasias,47
+19 - Ciudad Bolívar,respiratorias,11

@@ -1,0 +1,262 @@
+﻿mes,mes_num,nombre_del_farmaco,indicaciony_o_tratamiento,estado,estado_simple,causa,fecha_de_cierre,prioridad_en_salud,prioritario,desabastecido,grupo
+Agosto,8,Abacavir solución oral,AGENTES DE ACCION DIRECTA CONTRA EL VIRUS (SISTEM),Desabastecido***:  incluido en el LMVND,desabastecido,Alerta sanitaria / Descontinuación del producto,,ENFERMEDADES INFECCIOSAS,False,True,no_prioritario
+Agosto,8,Abacavir tabletas,ANTIVIRALES DE USO SISTEMICO,En monitorización,en monitorización,Baja rentabilidad,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Acetato de ciproterona tableta,ANTIANDROGENOS,En Riesgo De Desabastecido,en riesgo,Aumento de la demanda,,CÁNCER,True,False,neoplasias
+Agosto,8,"Aciclovir tabletas 200mg,500mg y 800mg",AGENTES DE ACCION DIRECTA CONTRA EL VIRUS (SISTEM),En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Aciclovir ungüento oftálmico,AGENTES DE ACCION DIRECTA CONTRA EL VIRUS (SISTEM),Desabastecido**: Se solicito a la Sala Especializada de Medicamentos de la Comisión Revisora (SEM) inclusión en el LMVND,desabastecido,Alerta sanitaria / Descontinuación del producto,,ENFERMEDADES INFECCIOSAS,False,True,no_prioritario
+Agosto,8,Acido tranexámico 500 mg/5mL solución Inyectable,ANTIFIBRINOLITICOS,No desabastecido,no desabastecido,Problemas de manufactura,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Acido Valproico Jarabe 250mg/5ml/120ml,ANTIEPILEPTICOS,En Riesgo De Desabastecido,en riesgo,Problemas en la adquisición de materia prima,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Adenosina 3 mg y 6 mg,AGENTES DE ACCION DIRECTA CONTRA EL VIRUS (SISTEM),En monitorización,en monitorización,Problemas de manufactura,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Adrenalina solución inyectable,"ESTIMULANTES CARDIACOS, EXCLUIDOS GLICOSIDOS CARD.",En monitorización,en monitorización,Problemas de manufactura,,VASOACTIVO / INOTRÓPICOS,False,False,no_prioritario
+Agosto,8,Afatinib,OTROS ANTINEOPLÁSICOS,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,CÁNCER,True,False,neoplasias
+Agosto,8,Agua Estéril de grandes volúmenes 250 ml-500ml 1000ml y 3000ml,TODOS LOS DEMAS PRODUCTOS NO TERAPEUTICOS,En monitorización,en monitorización,Aumento de la demanda,,LÍQUIDOS Y ELECTROLITOS,False,False,no_prioritario
+Agosto,8,Albendazol suspensión,ANTIPARASITARIOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Albendazol tabletas,ANTIPARASITARIOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Albumina Humana Solución Inyectable,SUSTITUTOS DE LA SANGRE Y SOLUC. PARA PERFUSION,En Riesgo De Desabastecido,en riesgo,Asignación controlada para Colombia razón por la cual no se suple el 100% de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Alfa-metildopa tabletas 250mg,ANTIADRENERGICOS DE ACCION CENTRAL (ANTIHIPERTENS),No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Alopurinol 100mg y 300mg,PREPARADOS CONTRA LA GOTA,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Problemas en la adquisición de materia prima,,ENFERMEDADES CRÓNICAS,True,True,otros
+Agosto,8,Alprostadil Solución inyectable,OTROS PREPARADOS CARDIACOS,En monitorización,en monitorización,Modificaciones de Registro Sanitario pendientes,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Aminofilina solución inyectable,"ESTIMULANTES CARDIACOS, EXCLUIDOS GLICOSIDOS CARD.",En monitorización,en monitorización,Insuficientes oferentes,,ENFERMEDADES CRÓNICAS,True,False,respiratorias
+Agosto,8,Amiodarona tableta y solución inyectable,ANTIARRITMICOS,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Amitriptilina tabletas,ANTIDEPRESIVOS,No desabastecido,no desabastecido,Aumento de la demanda,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Amoxicilina 500mg Tabletas Y Capsulas,ANTIBIÓTICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Amoxicilina Polvo para inyección,ANTIBIÓTICOS,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,True,no_prioritario
+Agosto,8,Amoxicilina Polvo para reconstituir vía oral,ANTIBIÓTICOS,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Amoxicilina/Clavulona to suspensión oral,"ANTIBACTERIANOS BETALACTAMICOS, PENICILINAS",En Riesgo De Desabastecido,en riesgo,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Amoxicilina/Clavulona to Tableta,ANTIBIÓTICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Anfotericina B Liposomal Polvo Liofilizado Para Reconstituir a Solución Inyectable,ANTIMICOTICOS DE USO SISTEMICO,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Aripiprazol 15 mg Tableta,ANTIPSICOTICOS,No desabastecido,no desabastecido,Insuficientes oferentes,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Articaina varias Inyectables,ANTESTESICOS LOCALES,No desabastecido,no desabastecido,Aumento de la demanda,,USO ANESTÉSICO,False,False,no_prioritario
+Agosto,8,Atorvastatina tabletas 20mg-40mg y 80mg,MODIFICADORES DE LOS LIPIDOS SOLOS,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Atropina solución inyectable,OTROS PREPARADOS CARDIACOS,En monitorización,en monitorización,aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Azitromicina suspensión oral,ANTIBIÓTICOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Azitromicina tableta 500mg,ANTIBIÓTICOS,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Azul de metileno,VARIOS,No desabastecido,no desabastecido,aumento de la demanda,,VARIOS,False,False,no_prioritario
+Agosto,8,Bicalutamida tableta,TERAPIA ENDOCRINA,En monitorización,en monitorización,Baja rentabilidad,,CÁNCER,True,False,neoplasias
+Agosto,8,Bicarbonato De Sodio Solución Inyectable 1meq/Ml/10 Ml,SOLUCIONES INTRAVENOSAS ADITIVAS,Desabastecido***:  incluido en el LMVND,desabastecido,Problemas en la adquisición de materia prima,,LÍQUIDOS Y ELECTROLITOS,False,True,no_prioritario
+Agosto,8,Biperideno tableta 2mg,ANTICOLINERGICOS (ANTIPARKINSONIANOS),En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,"Bupivacaina Con Epinefrina (Con Preservantes) Solución Inyectable 0.5 %/20 Ml - 0.5
+%/10 Ml - 0.75 %/10
+Ml",ANESTÉSICOS LOCALES,En monitorización,en monitorización,Aumento de la demanda,,USO ANESTÉSICO,False,False,no_prioritario
+Agosto,8,Bupivacaina Sin Epinefrina Solución Inyectable 0.5 %/20 Ml - 0.5 %/10 Ml,ANESTÉSICOS LOCALES,En monitorización,en monitorización,Aumento de la demanda,,USO ANESTÉSICO,False,False,no_prioritario
+Agosto,8,Carbamazepina solución oral,ANTIEPILEPTICOS,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Carbamazepina solución oral tableta 400mg,ANTIEPILEPTICOS,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Carbamazepina tableta 200mg,ANTIEPILEPTICOS,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Carbonato De Calcio (1500mg) /Vitamina D3 Tableta,CALCIO,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Carboplatino 10mg/ Ml Solución inyectable,ANTINEOPLASICOS,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,CÁNCER,True,False,neoplasias
+Agosto,8,Cefalotina 1gr polvo estéril para reconstituir a solución inyectable,OTROS ANTIBACTERIANOS BETALACTAMICOS,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Cefazolina 1gr polvo estéril para reconstituir a solución inyectable,OTROS ANTIBACTERIANOS BETALACTAMICOS,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Cefradina solución oral,OTROS ANTIBACTERIANOS BETALACTAMICOS,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Alerta sanitaria / Descontinuación del producto,,ENFERMEDADES INFECCIOSAS,False,True,no_prioritario
+Agosto,8,Cefuroxima suspensión oral,OTROS ANTIBACTERIANOS BETALACTAMICOS,No desabastecido,no desabastecido,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Cefuroxima tabletas,ANTIBACTERIANOS DE USO SISTEMICO,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Ciclofosfamida 1g Vial,AGENTES ALQUILANTES (ANTINEOPLASICOS),No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,CÁNCER,True,False,neoplasias
+Agosto,8,Ciprofloxacina solución inyectable,ANTIBIÓTICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Ciprofloxacina tabletas 250mg,ANTIBIÓTICOS,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Insuficientes oferentes,,ENFERMEDADES INFECCIOSAS,False,True,no_prioritario
+Agosto,8,Ciprofloxacina tabletas 500mg,ANTIBIÓTICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Citarabina 500 Mg/10ml solución inyectable,ANTINEOPLASICOS,En monitorización,en monitorización,No definida por el INVIMA.,,CÁNCER,True,False,neoplasias
+Agosto,8,Citrato De Clomifeno Tableta,HORMONAS SEXUALES Y MODULADORES DE APARATO GENITAL,Desabastecido***:  incluido en el LMVND,desabastecido,No definida por el INVIMA.,,SALUD SEXUAL Y REPRODUCTIVA,False,True,no_prioritario
+Agosto,8,Claritromicina suspensión oral,ANTIBACTERIANOS DE USO SISTEMICO,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Claritromicina tabletas,MACROLIDOS Y LINCOSAMIDAS (ANTIINFECC. SISTEMICOS),En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Cloroquina Solución Oral,ANTIMALARICOS,En monitorización,en monitorización,Insuficientes oferentes,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Cloroquina tabletas,ANTIMALARICOS,Desabastecido***:  incluido en el LMVND,desabastecido,Insuficientes oferentes,,ENFERMEDADES INFECCIOSAS,False,True,no_prioritario
+Agosto,8,Cloruro de potasio,SOLUCIONES INTRAVENOSAS ADITIVAS,En monitorización,en monitorización,Aumento de la demanda,,LÍQUIDOS Y ELECTROLITOS,False,False,no_prioritario
+Agosto,8,Clozapina tableta,ANTIPSICOTICOS,En monitorización,en monitorización,Restricción o dificultades con cupo API,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Colistimetato sódico polvo para inhalar,OTROS ANTIBACTERIANOS (ANTIINFECCIOSOS SISTEMICOS),En monitorización,en monitorización,Insuficientes oferentes,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Cromoglicato sódico 2% y 4% Solución oftálmica,DESCONGESTIONANTES Y ANTIALERGICOS (OFTALMICOS),En monitorización,en monitorización,Problemas de manufactura,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,"Dalteparina Sódica Sl.
+Inyectable",ANTITROMBOTICOS,Desabastecido***:  incluido en el LMVND,desabastecido,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,True,cardiocerebrovascular
+Agosto,8,Dantroleno sódico,SISTEMA MUSCULO-ESQUELETICO,En monitorización,en monitorización,Insuficientes oferentes,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Darunavir Tabletas,ANTIVIRALES DE USO SISTEMICO,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Daunorrubicina x 20 mg,ANTIBIOTICOS CITOTOXICOS Y SUST.RELAC.(ANTINEOPLA),En monitorización,en monitorización,Problemas en la adquisición de materia prima,,CÁNCER,True,False,neoplasias
+Agosto,8,Deflazacort tabletas x 6 y 30 mg,"CORTICOSTEROIDES DE USO SISTEMICO, SOLOS",En monitorización,en monitorización,Insuficientes oferentes,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Desatinib tableta,OTROS ANTINEOPLASICOS,En monitorización,en monitorización,No definida por el INVIMA.,,CÁNCER,True,False,neoplasias
+Agosto,8,Desloratadina jarabe,ANTIHISTAMINICOS DE USO SISTEMICO,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Desloratadina tableta,ANTIHISTAMINICOS DE USO SISTEMICO,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Desmopresina Spay Nasal Y Oral,HORMONAS DEL LOBULO POSTERIOR DE LA HIPOFISIS,En monitorización,en monitorización,Modificaciones de Registro Sanitario pendientes,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Desvenlafaxina,ANTIDEPRESIVOS,En monitorización,en monitorización,No definida por el INVIMA.,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Dexametasona ampolla de 4 y 8mg,"CORTICOSTEROIDES DE USO SISTEMICO, SOLOS",No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Dextrosa en agua destilada al 5%,SOLUCIONES INTRAVENOSAS,En monitorización,en monitorización,Aumento de la demanda,,LÍQUIDOS Y ELECTROLITOS,False,False,no_prioritario
+Agosto,8,Dienogest tabletas,HORMONAS SEXUALES Y MODULADORES DE APARATO GENITAL,En monitorización,en monitorización,Aumento de la demanda,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,Dienogest+Estardiol tabletas,HORMONAS SEXUALES Y MODULADORES DE APARATO GENITAL,No desabastecido,no desabastecido,Aumento de la demanda,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,Dinitrato de isosorbida 5 mg Tableta sublingual,VASODILATADORES USADOS EN CARDIOTERAPIA,En monitorización,en monitorización,Aumento de la demanda,,VASOACTIVO / INOTRÓPICOS,False,False,no_prioritario
+Agosto,8,Dipirona ampolla de 1gr y 2.5gr,OTROS ANALGESICOS Y ANTIPIRETICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Dobutamina solución inyectable,"ESTIMULANTES CARDIACOS, EXCLUIDOS GLICOSIDOS CARD.",No desabastecido,no desabastecido,Problemas en la adquisición de materia prima,,VASOACTIVO / INOTRÓPICOS,False,False,no_prioritario
+Agosto,8,Doxiciclina 100mg Tableta Oral,ANTIBIÓTICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Drospirenona Etinilestradiol Fuerte,HORMONAS ANTICONCEPTIVAS DE USO SISTEMICO,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,Drospirenona Etinilestradiol Suave,HORMONAS ANTICONCEPTIVAS DE USO SISTEMICO,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,Dulaglutida sol. Inyectable,"ANTIDIABETICOS ORALES, EXCL. INSULINAS",En Riesgo De Desabastecido,en riesgo,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,diabetes
+Agosto,8,Efavirez tableta,ANTIVIRALES DE USO SISTEMICO,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Enalapril tabletas de 5mg y 20mg,INHIBIDORES ENZIMA CONVERTASA ANGIOTENSINA -IECA-,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Enantato De Noretisterona 50mg + Valerato De Estradiol 5mg solución inyectable,PROGESTAGENOS Y ESTROGENOS EN ASOCIACION,Desabastecido**: Se solicito a la Sala Especializada de Medicamentos de la Comisión Revisora (SEM) inclusión en el LMVND,desabastecido,Aumento de la demanda,,SALUD SEXUAL Y REPRODUCTIVA,False,True,no_prioritario
+Agosto,8,Enoxaparina Sódica Sl. Inyectable en susu diferentes concentraciones.,ANTITROMBOTICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Eritromicina Tabletas 500mg,MACROLIDOS Y LINCOSAMIDAS (ANTIINFECC. SISTEMICOS),En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Eritropoyetina recombinante humana solución inyectable,ANTIANEMICOS,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Eritropoyetina polvo estéril para reconstituir a suspensión inyectable,ANTIANEMICOS,En riesgo De Desabastecido,en riesgo,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Escitalopram tabletas,ANTIDEPRESIVOS,En monitorización,en monitorización,No definida por el INVIMA.,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Esomeprazol capsulas y tabletas,MEDICAMENTOS PARA ULCERA PEPTICA Y REFLUJO,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,"Estradiol gel tópico 0,06 g / 100 g.",ESTROGENOS,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Insuficientes oferentes,,SALUD SEXUAL Y REPRODUCTIVA,False,True,no_prioritario
+Agosto,8,"Estrógenos Conjugados 0,625mg/g Crema Vaginal",PROGESTAGENOS Y ESTROGENOS EN ASOCIACION,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Insuficientes oferentes,,SALUD SEXUAL Y REPRODUCTIVA,False,True,no_prioritario
+Agosto,8,Eszopiclona tableta,HIPNOTICOS Y SEDANTES,En monitorización,en monitorización,No definida por el INVIMA.,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Etinilestradiol tabletas,PROGESTAGENOS Y ESTROGENOS EN ASOCIACION,En monitorización,en monitorización,Riesgo de Abastecimiento de PVC,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,Exenatida sol. Inyectable,ANTIDIABETICOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,diabetes
+Agosto,8,Extracto de surfactante pulmonar bovino 3ml,TRATAMIENTO NEONATOS,En monitorización,en monitorización,En revisión Sala Especializada de Medicamentos SEM,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,"Fenilbutirato x 48,3 G gránulos",OTROS PREPARADOS APARATO DIGESTIVO Y METABOLISMO,No desabastecido,no desabastecido,Insuficientes oferentes,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Fenitoína 100 mg Capsulas,ANTIEPILEPTICOS,En monitorización,en monitorización,Problemas de manufactura,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,"Fenobarbital tabletas 10, 50 y 100 mg",ANTIEPILEPTICOS,En monitorización,en monitorización,Problemas de manufactura,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,"Fenoterol/ Bromuro de ipratropio 0,5 mg/ml
+0,25 mg/ml Solución
+inhalación",ADRENERGICOS INHALADOS (ANTIASMATICOS),No desabastecido,no desabastecido,Problemas en la adquisición de materia prima,,ENFERMEDADES CRÓNICAS,True,False,respiratorias
+Agosto,8,"Fentanilo Citrato Sl.
+Inyectable",ANESTESICOS,En monitorización,en monitorización,Aumento de la demanda,,USO ANESTÉSICO,False,False,no_prioritario
+Agosto,8,Fibrinogeno Humano Solución inyectable.,ANTIFIBRINOLITICOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Fluconazol tabletas,ANTIMICOTICOS DE USO SISTEMICO,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,"Fludrocortisona 0,1 mg Tableta","CORTICOSTEROIDES DE USO SISTEMICO, SOLOS",No desabastecido,no desabastecido,Problemas en la adquisición de materia prima,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Fluorouracilo solución inyectable,ANTINEOPLASICOS,En monitorización,en monitorización,Problemas de manufactura,,CÁNCER,True,False,neoplasias
+Agosto,8,"Fluoxetina tableta, jarabe y capsula",ANTIDEPRESIVOS,En monitorización,en monitorización,No definida por el INVIMA.,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Fosfomicina 4g Inyectables,OTROS ANTIBACTERIANOS (ANTIINFECCIOSOS SISTEMICOS),En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Glibenclamida tabletas,ANTIDIABETICOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,diabetes
+Agosto,8,Glimepirida tableta,ANTIDIABETICOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,diabetes
+Agosto,8,Gluconato De Calcio al 10% Sl. Inyectable en sus diferentes concentraciones,CALCIO,En monitorización,en monitorización,Aumento de la demanda,,LÍQUIDOS Y ELECTROLITOS,False,False,no_prioritario
+Agosto,8,Gonadotropina Coriónica Humana,GONADOTROPINAS Y OTROS ESTIMULANTES DE OVULACION,En monitorización,en monitorización,Restricción o dificultades con cupo API,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,Haloperidol tableta y solución inyectable.,ANTIPSICOTICOS,En monitorización,en monitorización,Baja rentabilidad,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Heparina sódica Sl. Inyectable en sus diferentes concentraciones,ANTITROMBOTICOS,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Heparina sódica Sl. Inyectable en sus diferentes concentraciones,ANTITROMBOTICOS,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Hidralazina ampolla y tableta,ANTIHIPERTENSIVOS,Desabastecido**: Se solicito a la Sala Especializada de Medicamentos de la Comisión Revisora (SEM) inclusión en el LMVND,desabastecido,Insuficientes oferentes,,ENFERMEDADES CRÓNICAS,True,True,cardiocerebrovascular
+Agosto,8,Hidrocortisona tableta,"CORTICOSTEROIDES DE USO SISTEMICO, SOLOS",En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,"Hidromorfona tabletas 2mg, 2,5mg y 5 mg",ANALGESICOS OPIACEOS,En monitorización,en monitorización,Problemas de manufactura,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Hidroxicloroquina tabletas,ANTIMALARICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Hierro polimaltosado+acido fólica tableta,PREPARADOS DE HIERRO (ANTIANEMICOS),En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Idarubicina,ANTIBIOTICOS CITOTOXICOS Y SUST.RELAC.(ANTINEOPLA),No desabastecido,no desabastecido,No definida por el INVIMA.,,CÁNCER,True,False,neoplasias
+Agosto,8,Iloprost suspensión para inhalar de 10mcg y 20mcg,ANTITROMBOTICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Imatinib tableta,ANTINEOPLASICOS,En monitorización,en monitorización,No definida por el INVIMA.,,CÁNCER,True,False,neoplasias
+Agosto,8,Imipramina tableta,ANTIDEPRESIVOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Inmunoglobulina AntiD - Rh 300 mcg Inyectables,INMUNOGLOBULINAS,No desabastecido,no desabastecido,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Inmunoglobulina humana normal solución inyectable 5% (50mg/1ml),INMUNOGLOBULINAS,En Riesgo De Desabastecido,en riesgo,Desabastecimiento de activo,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,"Inmunoglobulinas específicas neutralizantes del veneno de las especies Micrurus dumerilii, micrurus mipartitus, micrurus isozonus y micrurus surinamensis.",SUEROS INMUNOLOGICOS E INMUNOGLOBULINAS,En monitorización,en monitorización,Insuficientes oferentes,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,"Insulina Lispro Sol.
+Intecyable",ANTIDIABETICOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,diabetes
+Agosto,8,Iobitridol solución inyectable,MEDIOS DE CONTRASTE RADIOLOGICOS IODADOS,En Riesgo De Desabastecido,en riesgo,Aumento de la demanda,,MEDICAMENTO USO DIAGNÓSTICO,False,False,no_prioritario
+Agosto,8,Ioduro Sódico (I -131),VARIOS,En riesgo De Desabastecido,en riesgo,Aumento de la demanda,,MEDICAMENTO USO DIAGNÓSTICO,False,False,no_prioritario
+Agosto,8,Iopramida solución inyectable,MEDIOS DE CONTRASTE RADIOLOGICOS IODADOS,En monitorización,en monitorización,No definida por el INVIMA.,,MEDICAMENTO USO DIAGNÓSTICO,False,False,no_prioritario
+Agosto,8,Ioversol solución inyectable,MEDIOS DE CONTRASTE,En Riesgo De Desabastecido,en riesgo,Baja rentabilidad,,MEDICAMENTO USO DIAGNÓSTICO,False,False,no_prioritario
+Agosto,8,Ipilimumab solución inyectable,OTROS ANTINEOPLÁSICOS,En Riesgo De Desabastecido,en riesgo,Estudio respuesta a auto pendientes,,CÁNCER,True,False,neoplasias
+Agosto,8,"Isoproterenol 0,2 mg/ml Inyectables","ESTIMULANTES CARDIACOS, EXCLUIDOS GLICOSIDOS CARD.",En monitorización,en monitorización,Problemas de manufactura,,VASOACTIVO / INOTRÓPICOS,False,False,no_prioritario
+Agosto,8,"R-L- Asparaginasa (Aislada de E- Coli) RECOMBINANTE-
+Polvo liofilizado para reconstituir a solución inyectable",OTROS ANTINEOPLASICOS,En monitorización,en monitorización,Baja rentabilidad,,ENFERMEDADES CRÓNICAS,True,False,neoplasias
+Agosto,8,Lamivudina tabletas y Sl. oral,AGENTES DE ACCION DIRECTA CONTRA EL VIRUS (SISTEM),En monitorización,en monitorización,Dificultades Logísticas,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Lamivudina y Abacavir tabletas,ANTIVIRALES DE USO SISTEMICO,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,"Lamivudina+Lidovudin a+Nevirapina
+tabletas",ANTIVIRALES DE USO SISTEMICO,Desabastecido**: Se solicito a la Sala Especializada de Medicamentos de la Comisión Revisora (SEM) inclusión en el LMVND,desabastecido,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,True,no_prioritario
+Agosto,8,"Lamivudina+Tenofovir
++Efavires tabletas",ANTIVIRALES DE USO SISTEMICO,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Lamivudina+Zidovudi na,ANTIVIRALES DE USO SISTEMICO,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Lamivudina+zidovudin a+Abacavir tabletas,ANTIVIRALES DE USO SISTEMICO,Desabastecido**: Se solicito a la Sala Especializada de Medicamentos de la Comisión Revisora (SEM) inclusión en el LMVND,desabastecido,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,True,no_prioritario
+Agosto,8,Lapinovir y Ritonavir tableta recubierta y cápsula dura.,ANTIVIRALES DE USO SISTEMICO,En monitorización,en monitorización,Baja rentabilidad,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Levodopa + Benserazida Tableta 250mg/50mg,DOPAMINERGICOS (ANTIPARKINSONIANOS),Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Modificaciones de Registro Sanitario pendientes,,ENFERMEDADES CRÓNICAS,True,True,otros
+Agosto,8,Carbidopa-Levodopa tabletas,DOPAMINERGICOS (ANTIPARKINSONIANOS),En monitorización,en monitorización,Demora en proceso de importación,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Levomepromazina tableta,ANTIPSICOTICOS,En monitorización,en monitorización,No definida por el INVIMA.,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Levonorgestrel tableta 0.03mg,HORMONAS ANTICONCEPTIVAS DE USO SISTEMICO,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Insuficientes oferentes,,SALUD SEXUAL Y REPRODUCTIVA,False,True,no_prioritario
+Agosto,8,"Levonorgestrel tabletas 0,03 mg",HORMONAS ANTICONCEPTIVAS DE USO SISTEMICO,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Aumento de la demanda,,SALUD SEXUAL Y REPRODUCTIVA,False,True,no_prioritario
+Agosto,8,Levosimendan solución inyectables,"ESTIMULANTES CARDIACOS, EXCLUIDOS GLICOSIDOS CARD.",En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,"Levotiroxina tabletas 50mcg,75mcg,100mc g,150mcg, 135mcg y 200mcg",PREPARADOS TIRODEOS,En Riesgo De Desabastecido,en riesgo,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,"Lidocaína Sin Epinefrina Solución Inyectable 1
+%/10 Ml - 1 %/20 Ml - 1
+%/50 Ml - 2 %/1.8 Ml - 2
+%/10 Ml - 2 %/20 Ml - 2
+%/50 Ml",ANTESTESICOS LOCALES,En monitorización,en monitorización,Aumento de la demanda,,USO ANESTÉSICO,False,False,no_prioritario
+Agosto,8,Lisdexanfetamina Dimesilato,"PSICOESTIMULANTES, MEDIC. PARA ADHD Y NOOTROPICOS",En Riesgo De Desabastecido,en riesgo,Aumento de la demanda,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Loratadina solución oral,ANTIHISTAMINICOS DE USO SISTEMICO,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Lorazepam tableta,ANSIOLITICOS,En monitorización,en monitorización,No definida por el INVIMA.,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Losartan tabletas,ANTAGONISTAS ANGIOTENSINA II,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Medroxiprogesterona ampolla,TERAPIA ENDOCRINA,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,"Medroxiprogesterona
++ Cipionato de Estradiol 50 mg + 10mg/1mL solución inyectable",HORMONAS SEXUALES Y MODULADORES DE APARATO GENITAL,En monitorización,en monitorización,Problemas de manufactura,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,"Melfalán tabletas, solución inyectable y polvo para reconstruir.",AGENTES ALQUILANTES (ANTINEOPLASICOS),En monitorización,en monitorización,Problemas de manufactura,,CÁNCER,True,False,neoplasias
+Agosto,8,Mepivacaina Varias Inyectables,ANTESTESICOS LOCALES,No desabastecido,no desabastecido,Aumento de la demanda,,USO ANESTÉSICO,False,False,no_prioritario
+Agosto,8,Mesna 400 mg solución inyectable,TODOS LOS DEMAS PRODUCTOS TERAPEUTICOS,En Riesgo De Desabastecido,en riesgo,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Metformina + Glibenclamida tabletas,ANTIDIABETICOS,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,True,diabetes
+Agosto,8,Metformina tableta de 500mg - 850mg y 1000mg,ANTIDIABETICOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,diabetes
+Agosto,8,"Metformina
++Glimepirida tabletas",ANTIDIABETICOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,diabetes
+Agosto,8,"Metformina
++Saxagliptina tableta",ANTIDIABETICOS,Desabastecido**: Se solicito a la Sala Especializada de Medicamentos de la Comisión Revisora (SEM) inclusión en el LMVND,desabastecido,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,True,diabetes
+Agosto,8,Metoprolol Succinato tabletas 25 y 100mg,BETABLOQUEANTES,En Riesgo De Desabastecido,en riesgo,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Metoprolol Succinato tabletas 50 y 200mg,BETABLOQUEANTES SOLOS,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,True,cardiocerebrovascular
+Agosto,8,"Metotrexato 2,5 mg Tableta",ANTIMETABOLITOS (ANTINEOPLASICOS),Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Problemas en la adquisición de materia prima,,CÁNCER,True,True,neoplasias
+Agosto,8,Metronidazol suspensión oral,AMEBICIDAS Y OTROS ANTIPROTOZOARIOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Metrotrexate solución inyectable.,ANTINEOPLASICOS,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,CÁNCER,True,False,neoplasias
+Agosto,8,Midazolam solución inyectable en sus diferentes presentaciones,HIPNOTICOS Y SEDANTES,En monitorización,en monitorización,Aumento de la demanda,,USO ANESTÉSICO,False,False,no_prioritario
+Agosto,8,Mifepristona tabletas,ANTIPROGESTÁGENOS,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,Mirtazapina tableta de 15 mg y 30mg,ANTIDEPRESIVOS,En monitorización,en monitorización,Insuficientes oferentes,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Misoprostol 200mcg oral y 50mcg vaginal,MEDICAMENTOS PARA ULCERA PEPTICA Y REFLUJO,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Molnupiravir tabletas 200mg,AGENTES DE ACCION DIRECTA CONTRA EL VIRUS (SISTEM),No desabastecido,no desabastecido,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Montelukast Capsulas/Tabletas,"OTROS PARA OBSTRUCCION DE VIAS RESPIRATORIAS, USO SISTEMICO",En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,respiratorias
+Agosto,8,Morfina 10 mg/ml Solución Inyectable,ANALGESICOS OPIACEOS,En monitorización,en monitorización,Problemas de manufactura,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Naproxeno tableta 250mg y 500mg,ANTIINFLAMATORIOS Y ANTIREUMATICOS NO ESTEROIDEOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Neostigmina Solución Inyectable,PARASIMPATICOMIMETICOS (OTROS MEDIC.ACCION SNC),En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Nevirapina Suspensión Oral 5mL.,AGENTES DE ACCION DIRECTA CONTRA EL VIRUS (SISTEM),No desabastecido,no desabastecido,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Nifedipina tabletas 10mg,BLOQ. CANALES CALCIO SELECTIVOS EFECTO VASCULAR,Desabastecido**: Se solicito a la Sala Especializada de Medicamentos de la Comisión Revisora (SEM) inclusión en el LMVND,desabastecido,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,True,cardiocerebrovascular
+Agosto,8,Nitroprusiato de sodio solución Inyectable,ANTIHIPERTENSIVOS ACCION MUSCULO LISO ARTERIOLAS,En monitorización,en monitorización,Insuficientes oferentes,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Norepinefrina solución inyectable 1mg/1mL,"ESTIMULANTES CARDIACOS, EXCLUIDOS GLICOSIDOS CARD.",En monitorización,en monitorización,Problemas de manufactura,,VASOACTIVO / INOTRÓPICOS,False,False,no_prioritario
+Agosto,8,Olanzapina tabletas,PSICOLEPTICOS,En monitorización,en monitorización,No definida por el INVIMA.,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Omeprazol Sódico Polvo Liofilizado Para Reconstituir A Solución Inyectable,MEDICAMENTOS PARA ULCERA PEPTICA Y REFLUJO,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Ondansetrón Clorhidrato Solución Inyectable y tabletas,ANTIEMETICOS Y ANTINAUSEANTES,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Oseltamivir tabletas,ANTIVIRALES DE USO SISTEMICO,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Oxicodona tableta y solución inyectable.,ANALGESICOS OPIACEOS,Desabastecido**: Se solicito a la Sala Especializada de Medicamentos de la Comisión Revisora (SEM) inclusión en el LMVND,desabastecido,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,True,otros
+Agosto,8,Oxigeno GAS,TODOS LOS DEMAS PRODUCTOS TERAPEUTICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Oxitocina solución inyectable 5 UI,HORMONAS DEL LOBULO POSTERIOR DE LA HIPOFISIS,En monitorización,en monitorización,Problemas de manufactura,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,Paclitaxel solución inyectable,ANTINEOPLASICOS,En monitorización,en monitorización,Baja rentabilidad,,CÁNCER,True,False,neoplasias
+Agosto,8,"Pancreatina Capsula Dura Correspondiente A: 18,000 U De
+Amilasa, 25.000 U De Lipasa, 1000 U De Proteasas Totales (CREON 25.000 - 300MG)","DIGESTIVOS, INCLUIDOS ENZIMAS",En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,"Pancreatina Capsula Dura Correspondiente A: 8,000 U De
+Amilasa, 10.000 U De Lipasa, 600 U De Proteasas Totales (CREON 10.000 - 150MG)","DIGESTIVOS, INCLUIDOS ENZIMAS",En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,"Pancreatina en gránulos equivalente a:
+5000 unidades PH EUR. Lipasa
+3600 unidades PH EUR. Amilasa
+200 unidades PH EUR. Proteasa","DIGESTIVOS, INCLUIDOS ENZIMAS",Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Pendiente liberación de lote,,ENFERMEDADES CRÓNICAS,True,True,otros
+Agosto,8,Paracetamol (acetaminofén) 1G/100ml solución inyectable parainfusión,OTROS ANALGESICOS Y ANTIPIRETICOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Paracetamol (acetaminofén) solución oral,OTROS ANALGESICOS Y ANTIPIRETICOS,En Riesgo De Desabastecido,en riesgo,Aumento de la demanda,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Paracetamol (acetaminofén) tabletas,ANALGESICOS,En monitorización,en monitorización,Baja rentabilidad,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Pemetrexed 500MG solución inyectable,ANTINEOPLASICOS,En monitorización,en monitorización,Baja rentabilidad,,CÁNCER,True,False,neoplasias
+Agosto,8,"Pipotiazina 25 mg sl.
+Inyectables",ANTIPSICOTICOS,En monitorización,en monitorización,Problemas de manufactura,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Pirimetamina x 25 mg Sulfadoxima 500 mg+ pirimetamina x 25 mg Espiramicina x 3 mUI,ANTIMALARICOS,En monitorización,en monitorización,Insuficientes oferentes,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Plerixafor solución inyectable,CITOKINAS E INMUNOMODULADORES,No desabastecido,no desabastecido,Ninguna. Medicamento no desabastecido,,CÁNCER,True,False,neoplasias
+Agosto,8,Pregabalina tabletas,ANTIEPILEPTICOS,En monitorización,en monitorización,Problemas de manufactura,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Propafenona tableta 150mg,ANTIARRITMICOS,No desabastecido,no desabastecido,Aumento de la demanda,,VASOACTIVO / INOTRÓPICOS,False,False,no_prioritario
+Agosto,8,Protamina Solución Inyectable,ANTIDOTOS,Desabastecido***:  incluido en el LMVND,desabastecido,Modificaciones de Registro Sanitario pendientes,,VARIOS,False,True,no_prioritario
+Agosto,8,Quetiapina tableta,ANTIPSICOTICOS,En riesgo De Desabastecido,en riesgo,Aumento de la demanda,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Ranitidina en todas sus presentaciones orales.,MEDICAMENTOS PARA TRASTORNOS POR LA SECRECION GASTRICA,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Alerta sanitaria / Descontinuación del producto,,ENFERMEDADES CRÓNICAS,True,True,otros
+Agosto,8,Ranitidina solución inyectable,MEDICAMENTOS PARA ULCERA PEPTICA Y REFLUJO,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Alerta sanitaria / Descontinuación del producto,,ENFERMEDADES CRÓNICAS,True,True,otros
+Agosto,8,Rifaximina tabletas,ANTIINFECCIOSOS INTESTINALES,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Risankizumab 90 mg/ml,OTROS ANTINEOPLÁSICOS,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Alerta sanitaria / Descontinuación del producto,,CÁNCER,True,True,neoplasias
+Agosto,8,Risperidona Tableta,ANTIPSICOTICOS,En monitorización,en monitorización,Aumento de la demanda,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Ritonavir 100 mg Tableta,AGENTES DE ACCION DIRECTA CONTRA EL VIRUS (SISTEM),En monitorización,en monitorización,Insuficientes oferentes,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Ritonavir-Lopinavir Solución oral,AGENTES DE ACCION DIRECTA CONTRA EL VIRUS (SISTEM),Desabastecido***:  incluido en el LMVND,desabastecido,Insuficientes oferentes,,ENFERMEDADES INFECCIOSAS,False,True,no_prioritario
+Agosto,8,Rosuvastatina + Ezetimibe tabletas,MODIFICADORES DE LOS LIPIDOS SOLOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Rosuvastatina tabletas,MODIFICADORES DE LOS LIPIDOS SOLOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Rosuvastatina Y Fenofibrato tabletas,MODIFICADORES DE LOS LIPIDOS SOLOS,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Sacarato de Hierro III 20mg/ ml,ANTIANEMICOS,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Sertralina tableta 50mg,ANTIDEPRESIVOS,En monitorización,en monitorización,Aumento de la demanda,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Somatropina 6mg y 20mg,HORMONAS DEL LOBULO ANTERIOR HIPOFISIS Y ANALOGOS,No desabastecido,no desabastecido,Modificaciones de Registro Sanitario pendientes,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Sulfato de Magnesio al 20%,SUSTITUTOS DE LA SANGRE Y SOLUC. PARA PERFUSION,En monitorización,en monitorización,Aumento de la demanda,,SALUD SEXUAL Y REPRODUCTIVA,False,False,no_prioritario
+Agosto,8,Sulfato Ferroso 25mg/1ml Sol Oral,PREPARADOS DE HIERRO (ANTIANEMICOS),En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Tacrolimus5 mg/inyectables,INMUNOSUPRESORES,No desabastecido,no desabastecido,Modificaciones de Registro Sanitario pendientes,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Tadafilo tabletas 5mg,"OTROS PREPARADOS UROLOGICOS, INCL.ANTIESPASMODICOS",En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Tamoxifeno tableta 10 mg,ANTAGONISTAS HORMONALES Y SUSTANCIAS RELACIONADAS,Desabactecido****: NO incluido en el LMVND por tener sustitutos.,desabastecido,Problemas de manufactura,,CÁNCER,True,True,neoplasias
+Agosto,8,Tamoxifeno tableta 20 mg,ANTAGONISTAS HORMONALES Y SUSTANCIAS RELACIONADAS,En monitorización,en monitorización,Problemas de manufactura,,CÁNCER,True,False,neoplasias
+Agosto,8,"Tamsulosina tableta 0,4mg",MEDICAMENTOSOS UROLOGICOS,No desabastecido,no desabastecido,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Tecnecio 99,VARIOS,En Riesgo De Desabastecido,en riesgo,Desabastecimiento Mundial De Molibdeno,,MEDICAMENTO USO DIAGNÓSTICO,False,False,no_prioritario
+Agosto,8,"Tenecteplase (activador tisular del plasminógeno humano) (10000u) polvo para reconstituir a sol.
+Iny. 50 mg",ANTITROMBOTICOS,No desabastecido,no desabastecido,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Tenofovir Disoproxil y Emtricitabina Tabletas y Sl. Oral,ANTIVIRALES DE USO SISTEMICO,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Trazodona tableta,ANTIDEPRESIVOS,En monitorización,en monitorización,No definida por el INVIMA.,,SALUD MENTAL,False,False,no_prioritario
+Agosto,8,Trimebutina tabletas,"DIGESTIVOS, INCLUIDOS ENZIMAS",En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,otros
+Agosto,8,Trimetoprim/sulfamet oxazol tabletas,ANTIBIÓTICOS,En monitorización,en monitorización,Problemas en la adquisición de materia prima,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Valsartán tabletas,ANTAGONISTAS ANGIOTENSINA II,En monitorización,en monitorización,Aumento de la demanda,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
+Agosto,8,Vancomicina solución inyectable,ANTIBACTERIANOS DE USO SISTEMICO,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES INFECCIOSAS,False,False,no_prioritario
+Agosto,8,Vildagliptina + metformina clorhidrato tableta,ANTIDIABETICOS,No desabastecido,no desabastecido,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,diabetes
+Agosto,8,Vildagliptina tableta,HIPOGLICEMIANTES ORALES,En monitorización,en monitorización,No definida por el INVIMA.,,ENFERMEDADES CRÓNICAS,True,False,diabetes
+Agosto,8,Vinblastina1mg/1ml solución Inyectable,ALCALOIDES VEGETALES Y PROD. NATURALES (ANTINEOPL),En monitorización,en monitorización,Problemas de manufactura,,CÁNCER,True,False,neoplasias
+Agosto,8,Vincristina 1 mg Inyectables,ALCALOIDES VEGETALES Y PROD. NATURALES (ANTINEOPL),En monitorización,en monitorización,Problemas de manufactura,,CÁNCER,True,False,neoplasias
+Agosto,8,Warfarina 5 mg Tableta,ANTITROMBOTICOS,En monitorización,en monitorización,Problemas de manufactura,,ENFERMEDADES CRÓNICAS,True,False,cardiocerebrovascular
