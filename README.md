@@ -19,6 +19,7 @@ Alcaldía Mayor de Bogotá (DIPEA) y Fundación Universitaria Compensar · **Equ
 * [Instrucciones de Despliegue](#instrucciones-de-despliegue)
 * [Visualizaciones y Resultados](#visualizaciones-y-resultados)
 * [Limitaciones](#limitaciones)
+* [Documentos de Entrega](#documentos-de-entrega)
 * [Equipo de Trabajo](#equipo-de-trabajo)
 ---
  
@@ -47,8 +48,8 @@ Los medicamentos prioritarios para enfermedades crónicas pueden escasear justo 
 Para revisar los resultados y la documentación final **no se requiere instalar ningún programa o librería**:
  
 * **Dashboard Interactivo:** [abrir el dashboard](https://peloterius.github.io/DataJam5-medicamentos-y-mortalidad-bogota/DataJam/outputs/dashboard.html). El archivo editable (`dashboard.html`) está en la carpeta `DataJam/outputs`.
-* **Nota Técnica:** consulta el documento explicativo final (PDF) en `/docs`.
-* **Formulario de caracterización y formulación del problema:** disponible en `/docs` (.docx).
+* **Nota Técnica:** [consulta el documento explicativo final (PDF)](DataJam/Docs/NOTA%20T%C3%89CNICA%20TINTOS%20DATAJAM5.pdf).
+* **Formulario de caracterización y formulación del problema:** [descargar el formulario (.docx)](DataJam/Docs/Formulario%20DataJam%20TINTOS.docx).
 ---
  
 ## Estructura del Repositorio
@@ -63,7 +64,9 @@ DataJam5-medicamentos-y-mortalidad-bogota/
     ├── notebooks/
     │   └── Notebook.ipynb   # Limpieza, clasificación, integración e indicadores
     ├── outputs/             # Indicadores en CSV y dashboard (archivo editable)
-    ├── docs/                # Nota técnica (PDF) y formulario (.docx)
+    ├── Docs/
+    │   ├── NOTA TÉCNICA TINTOS DATAJAM5.pdf      # Nota técnica (1 página)
+    │   └── Formulario DataJam TINTOS.docx        # Formulario de caracterización y formulación del problema
     └── requirements.txt     # Librerías necesarias
 ```
  
@@ -156,7 +159,7 @@ Para usarlo sin internet, descarga `dashboard.html` y ábrelo en cualquier naveg
 El proyecto cuenta con un dashboard interactivo para explorar las métricas por grupo de enfermedad, localidad y sexo:
  
 * **Dashboard:** [abrir el dashboard](https://peloterius.github.io/DataJam5-medicamentos-y-mortalidad-bogota/DataJam/outputs/dashboard.html) · archivo editable en `DataJam/outputs/dashboard.html`.
-* **Nota Técnica:** disponible en `/docs` (PDF).
+* **Nota Técnica:** [disponible en `DataJam/Docs`](DataJam/Docs/NOTA%20T%C3%89CNICA%20TINTOS%20DATAJAM5.pdf) (PDF).
 ### Resultados del último año común (2026, parcial)
  
 Las muertes son casos de 60 a 69 años, no tasas.
@@ -179,6 +182,17 @@ El orden por mortalidad coincide con el orden por desabastecimiento. Con solo 4 
 * 2026 es un año parcial, y el grupo cardiocerebrovascular solo trae ese año.
 * El listado de medicamentos es de un solo mes y no trae fecha de cierre, por eso H2 y la evolución de medicamentos no se pueden calcular.
 * La clasificación de medicamentos es manual (palabras clave) y los medicamentos no tienen edad ni territorio.
+---
+ 
+## Documentos de Entrega
+ 
+Están en la carpeta `DataJam/Docs`:
+ 
+| Documento | Descripción |
+|---|---|
+| [Nota técnica (PDF)](DataJam/Docs/NOTA%20T%C3%89CNICA%20TINTOS%20DATAJAM5.pdf) | Dificultades de acceso y calidad de los datos, retos de integración, limitaciones y recomendaciones (1 página). |
+| [Formulario (.docx)](DataJam/Docs/Formulario%20DataJam%20TINTOS.docx) | Formulario de caracterización y formulación del problema, con la descripción del dashboard, los hallazgos y las capturas de pantalla. |
+ 
 ---
  
 ## Equipo de Trabajo
